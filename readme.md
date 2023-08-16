@@ -1,7 +1,1 @@
-# hi
-
-# hello
-
-# new branch
-
-# another new brach or sth
+# Hello! This is my first version controlled file
